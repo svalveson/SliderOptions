@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author SVDevelopments
+ * @copyright Copyright © 2021 SVDevelopments
+ * @package SVDevelopments_SliderOptions
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="SVDevelopments_SliderOptions">
+        <sequence>
+            <module name="Magento_PageBuilder"/>
+        </sequence>
+    </module>
+</config>

@@ -1,0 +1,27 @@
+{
+    "name": "svdevelopments/slider-options",
+    "version": "1.0.0",
+    "description": "Add new options for the Slick configuration in the Page Builder Slider.",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "magento/module-page-builder": "*"
+    },
+    "license": [
+        "Proprietary"
+    ],
+    "authors": [
+        {
+            "name": "Santiago Valveson",
+            "homepage": "https://www.linkedin.com/in/santiago-valves%C3%B3n-75403b121/"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "SVDevelopments\\SliderOptions\\": ""
+        }
+    }
+}
