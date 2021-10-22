@@ -1,5 +1,7 @@
 # SVDevelopments_SliderOptions
 
+###### _**MAGENTO 2 EXTENSION**_
+
 Add new options for the Slick configuration in the Page Builder Slider. _Just Frontend for now_
 
 ### Options added for now:
