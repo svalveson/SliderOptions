@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <virtualType name="DefaultWYSIWYGValidator" type="Magento\Framework\Validator\HTML\ConfigurableWYSIWYGValidator">
+        <arguments>
+            <argument name="allowedAttributes" xsi:type="array">
+                <item name="data-slides-to-show" xsi:type="string">data-slides-to-show</item>
+                <item name="data-slides-to-scroll" xsi:type="string">data-slides-to-scroll</item>
+            </argument>
+        </arguments>
+    </virtualType>
+</config>
+
