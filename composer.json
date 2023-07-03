@@ -4,7 +4,7 @@
     "description": "Add new options for the Slick configuration in the Page Builder Slider.",
     "type": "magento2-module",
     "require": {
-        "php": "7.*",
+        "php": "7.*|8.*",
         "magento/framework": "*",
         "magento/module-page-builder": "*"
     },
