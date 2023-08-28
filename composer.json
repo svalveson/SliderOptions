@@ -1,6 +1,6 @@
 {
     "name": "svdevelopments/slider-options",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Add new options for the Slick configuration in the Page Builder Slider.",
     "type": "magento2-module",
     "require": {
